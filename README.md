@@ -13,3 +13,10 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 
 <img width="773" alt="A2" src="https://user-images.githubusercontent.com/103273559/192651910-176ac33a-2715-4be1-98af-2aede99ce0b1.png">
+
+##Activity 3
+
+<img width="566" alt="A3_2" src="https://user-images.githubusercontent.com/103273559/192669851-10d6b92c-5292-4341-ae3e-24bfc878fa60.png">
+
+<img width="692" alt="A3" src="https://user-images.githubusercontent.com/103273559/192669836-bdc69d06-763b-4079-9d7f-f644e173d6fd.png">
+
