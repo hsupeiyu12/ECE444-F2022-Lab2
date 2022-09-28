@@ -1,2 +1,5 @@
 <h1> Hello World!</h1>
-
+{% block scripts %}
+{{ super() }}
+{{moment.include_moment()}}
+{% endblock %}

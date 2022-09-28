@@ -1,7 +1,6 @@
 {% extends "bootstrap/base.html" %}
 
 
-
 {% block title %}Flasky{% endblock %}
 {% block navbar %}
 
@@ -25,5 +24,10 @@ data-toggle="collapse" data-target=".navbar-collapse">
 <div class="container">
 <div class="page-header">
 <h1>Hello, Mandy!</h1> </div>
+
+{{ moment.include_moment() }}
+<p>The loacl date and time is {{ moment(current_time).format('LLL') }}.</p>
+<p>That was {{ moment(current_time).fromNow(refresh=True) }}</p>
+
 </div>
 {% endblock %}
